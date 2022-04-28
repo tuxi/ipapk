@@ -1,0 +1,15 @@
+# github.com/andrianbdn/iospng v0.0.0-20180629161540-eb5ebcdb1909
+## explicit
+github.com/andrianbdn/iospng
+# github.com/pkg/errors v0.8.1-0.20180311214515-816c9085562c
+## explicit
+github.com/pkg/errors
+# github.com/shogo82148/androidbinary v0.0.0-20171125034040-f2570763f91e
+## explicit
+github.com/shogo82148/androidbinary
+github.com/shogo82148/androidbinary/apk
+# github.com/stretchr/testify v1.7.1
+## explicit; go 1.13
+# howett.net/plist v1.0.0
+## explicit; go 1.12
+howett.net/plist
